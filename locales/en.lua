@@ -1,3 +1,3 @@
 Locales['en'] = {
-    -- katoteki gej
+
 }
